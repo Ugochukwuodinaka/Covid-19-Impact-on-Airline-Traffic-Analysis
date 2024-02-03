@@ -226,7 +226,28 @@ From the analysis, i made the findings below:
 ## View and Interact With Power BI Dashboard Report
 You can view and interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNzUzZDA3YzEtNjI3Ni00NDRlLWFjMTEtNGUzNWUyYWY5Y2NmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Covid-19 Impact on Airports Traffic (2020) analysis showcases an interactive visual of the project in power BI.
 
-## Conclusion
+## Recommendations on How To Mitigate or Control the Impact of Pandemics on Airport Traffic
+
+In conclusion, mitigating and controlling the impact of pandemics on airport traffic requires a multifaceted approach that involves proactive measures, effective coordination, and adaptive strategies. Here's a summary of key considerations:
+
+- Preventive Measures: Implementing stringent health and safety protocols at airports, including temperature screenings, mandatory mask-wearing, enhanced cleaning and disinfection procedures, and social distancing measures, can help mitigate the spread of infectious diseases among passengers and airport personnel.
+
+- Travel Restrictions and Screening: Implementing travel restrictions and screening measures, such as quarantine requirements, testing protocols, and travel advisories, can help limit the spread of pandemics by reducing the movement of infected individuals across borders and identifying potential cases early.
+
+- Enhanced Communication and Coordination: Establishing robust communication channels and coordination mechanisms among airport authorities, government agencies, airlines, and public health authorities is essential for sharing information, coordinating response efforts, and implementing effective measures to contain outbreaks and mitigate their impact on airport traffic.
+
+- Flexible Operations and Contingency Planning: Developing flexible operational plans and contingency measures that can be activated in response to changing epidemiological conditions, travel advisories, and government regulations is critical for maintaining airport operations, minimizing disruptions, and ensuring the continuity of essential services during pandemics.
+
+- Investment in Technology and Infrastructure: Investing in technology and infrastructure upgrades, such as contactless check-in and boarding processes, automated screening systems, and enhanced ventilation systems, can help enhance the resilience of airports to pandemics by reducing person-to-person contact and minimizing the risk of transmission.
+
+- Collaborative Research and Innovation: Promoting collaborative research and innovation in areas such as vaccine development, antiviral treatments, and epidemiological modeling can help advance scientific understanding of pandemics and inform evidence-based decision-making in mitigating their impact on airport traffic.
+
+- Community Engagement and Public Awareness: Engaging with local communities, passengers, and stakeholders through public awareness campaigns, educational initiatives, and community outreach efforts can help build trust, promote compliance with health guidelines, and foster a culture of resilience and solidarity in responding to pandemics.
+
+
+
+
+
 
 
 
