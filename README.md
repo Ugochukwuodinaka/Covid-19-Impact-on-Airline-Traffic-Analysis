@@ -70,7 +70,24 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 
 - Geography: This column contain additional geographical information or descriptors related to each airport location. It could include details such as geographical regions, continents, or other spatial attributes that help classify and organize airport locations within a broader geographic framework.
 
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Transform, and
+        3. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX,
+        2. Quick Measures,
+        3. Page Navigation,
+        4. Filters,
+        5. Tooltips
 
+### ETL Process using the Power Query Editor:
+1. Ttranslated all the colume headers in Swedish language to English for easy understanding
+2. Translated all the rows of the Profession, Gender, and Assembly from Swedish language to English language for a better understanding of the table data.
 
 
 
