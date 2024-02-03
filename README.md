@@ -136,6 +136,47 @@ From the analysis, i made the findings below:
      7. Generally, compared to the previous years, these 4 countries experienced lesser flight schedules, due flight restrictions that happened in 2020 due to the destructive impact of 
         the covid-19 pandemic not just in these 4 countries in this analysis, but globally.
 
+- In the context of this analysis, the term "overall traffic impact" refers to the net change or deviation in air traffic activity compared to a baseline or reference period. The specific numbers associated with each country represent the magnitude of this impact, measured in some standardized unit (such as flight counts for this analysis) that allows for comparison across different regions or time periods.
+
+     1. USA: With an overall traffic impact of 286,271, this indicates a substantial net change in air traffic activity within the United States during the specified period. The 
+        positive value suggests an increase in air traffic relative to the baseline, while a negative value would imply a decrease.
+
+     2. Canada: Similarly, Canada's overall traffic impact of 178,893 reflects the net change in air traffic activity within Canada during the analyzed period. Again, a positive value 
+        indicates an increase in air traffic, while a negative value would signify a decrease.
+
+     3. Australia: Australia's overall traffic impact of 9,702 indicates a comparatively smaller net change in air traffic activity within Australia during the specified period.
+
+     4. Chile: Chile's overall traffic impact of 8,157 represents the net change in air traffic activity within Chile during the analyzed period.
+
+     5. These values provide quantitative insights into how the Covid-19 pandemic, or other factors under consideration, affected air traffic patterns in each country. A higher overall 
+        traffic impact suggests a more significant deviation from normal or baseline levels of air traffic, while a lower impact indicates a relatively smaller deviation.
+
+- In the Flight Trend by Month linechart, it is evident that there are fluctuations in air travel activity throughout the year, with certain months experiencing higher or lower percentages relative to a baseline reference point. Below is an analysis of these trends:
+
+     1. Initial Impact of Covid-19 Pandemic (March to May): The percentage of baseline in March is 445, indicating a significant decline in air travel activity compared to pre-pandemic 
+        levels. This decline likely corresponds to the initial onset of the Covid-19 pandemic, as countries implemented widespread travel restrictions and lockdown measures to contain 
+        the spread of the virus. In April and May, although still significantly below baseline levels, there is a gradual increase in the percentage of baseline (825 and 855, 
+        respectively), suggesting a partial recovery or stabilization in air travel activity as some restrictions were lifted and travel began to resume cautiously.
+
+     2. Summer Recovery (June to August): From June to August, there is a further increase in the percentage of baseline, indicating a continued recovery in air travel activity during 
+        the summer months. The percentages range from 831 to 862, reflecting a gradual return to normalcy as travel restrictions eased, and consumer confidence in air travel began to 
+        improve.
+
+     3. Plateau and Fluctuations (September to November): In September and October, the percentage of baseline remains relatively stable, hovering around 835 to 868, suggesting a 
+        plateau in air travel activity. However, there may be fluctuations within this period due to factors such as changing travel regulations, economic conditions, and regional 
+        outbreaks of Covid-19. By November, there is a slight decrease in the percentage of baseline to 835, indicating a potential stabilization or modest decline in air travel 
+        activity compared to the previous months.
+
+     4. Year-End Decline (December): The percentage of baseline drops significantly in December to 56, indicating a sharp decline in air travel activity compared to the rest of the 
+        year. This decline may be attributed to various factors, including holiday travel disruptions, increased Covid-19 cases and restrictions, and seasonal trends in air travel 
+        demand.
+
+     5. Overall, the analysis of flight trends by month highlights the dynamic nature of air travel activity throughout the year, with fluctuations influenced by external factors such 
+        as the Covid-19 pandemic, government policies, economic conditions, and seasonal variations. 
+
+
+
+
 
 
 
