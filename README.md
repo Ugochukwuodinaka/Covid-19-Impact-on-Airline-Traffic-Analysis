@@ -174,12 +174,59 @@ From the analysis, i made the findings below:
      5. Overall, the analysis of flight trends by month highlights the dynamic nature of air travel activity throughout the year, with fluctuations influenced by external factors such 
         as the Covid-19 pandemic, government policies, economic conditions, and seasonal variations. 
 
+- Here's an analysis of the contribution of different Airports to the Overall Traffic Impact of the Covid-19 pandemic:
 
+     1. Decline in Air Travel Activity: The data reflects a significant decrease in air travel activity across various airports, as indicated by the lower percentages of baseline. This 
+        decline can be attributed to the widespread implementation of travel restrictions, border closures, and lockdown measures in response to the Covid-19 pandemic.
+    
+     2. Regional Variation in Impact: While airports in Canada and the USA are among the top contributors to the overall traffic impact, they also experienced substantial reductions in 
+        activity. Canadian airports such as Winnipeg International, Hamilton International, and Calgary International, despite ranking high in contribution, still witnessed notable 
+        declines compared to pre-pandemic levels. Similarly, major US airports like Newark Liberty International, Daniel K Inouye International, and Chicago O'Hare International, while 
+        significant contributors, also saw decreases in air traffic activity.
 
+     3. Resilience of Some Airports: Despite the overall decline, certain airports displayed relatively higher levels of activity compared to others. For instance, Vancouver 
+        International in Canada and Dallas/Fort Worth International in the USA maintained higher percentages of baseline, indicating a degree of resilience or adaptability to the 
+        challenges posed by the pandemic.
 
+     4. Impact on International Travel Hubs: International travel hubs such as Los Angeles International, Miami International, and John F. Kennedy International in the USA experienced 
+        significant declines in activity. These airports typically handle a large volume of international flights, but the pandemic's disruption to global travel severely impacted their 
+        operations.
 
+     5. Global Connectivity Affected: Airports beyond North America, such as Kingsford Smith in Australia and Santiago International Airport in Chile, also witnessed declines in air 
+        travel activity. This indicates the global nature of the pandemic's impact on air travel and underscores the interconnectedness of aviation networks worldwide.
 
+     6. Economic and Operational Challenges: The data reflects the economic and operational challenges faced by airports during the pandemic, including reduced passenger demand, 
+        cancellations of flights, and financial strains on airport operations. These challenges have necessitated adaptive measures and strategic planning to navigate the uncertainties 
+        of the aviation industry in 2020 and beyond.
 
+     7. Overall, the analysis of airport contributions to the overall traffic impact underscores the profound effects of the Covid-19 pandemic on air travel activity worldwide.
+
+- The geospatial map showing the percentage of baseline by airports, longitude, latitude, countries, states, and cities offers a detailed visualization of the impact of the Covid-19 pandemic on air travel activity in 2020. Here's an analysis based on the provided information:
+
+     1. Spatial Distribution of Impact: The map provides insights into the spatial distribution of the percentage of baseline across different airports, countries, states, and cities. 
+        Areas with higher percentages may indicate regions that were less severely affected by the pandemic's disruptions, while lower percentages signify areas with more significant 
+        declines in air travel activity.
+
+     2. Identification of Hotspots and Coldspots: By overlaying the data on a geospatial map, it becomes possible to identify hotspots and coldspots of air travel activity represented 
+        by the sizes of the blue bubbles. Bigger bubbles correspond to regions with relatively higher percentages of baseline, indicating resilience or adaptability to the challenges 
+        posed by the pandemic. smaller bubbles, on the other hand, represent areas with lower percentages, signifying more significant disruptions.
+
+     3. Impact on Transportation Hubs: The map highlights the impact of the pandemic on transportation hubs, such as airports, which serve as critical nodes in global air travel 
+        networks. Airports with lower percentages of baseline may include major international hubs that experienced substantial declines in passenger traffic, flight operations, and 
+        cargo shipments due to travel restrictions and reduced demand.
+
+     4. Regional Disparities and Economic Implications: Regional disparities in the percentage of baseline reflect variations in the severity of the pandemic's impact on air travel 
+        activity. These disparities can have economic implications, affecting industries dependent on tourism, business travel, and international trade. Regions heavily reliant on air 
+        transportation may experience economic downturns due to reduced connectivity and mobility.
+
+     5. Policy Response and Recovery Strategies: The geospatial map can inform policymakers, aviation industry stakeholders, and public health officials in assessing the effectiveness 
+        of policy responses and designing recovery strategies. Understanding the spatial patterns of air travel activity can help prioritize resource allocation, target interventions, 
+        and support the gradual resumption of air travel in the post-pandemic period.
+
+## View and Interact With Power BI Dashboard Report
+You can view and interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNzUzZDA3YzEtNjI3Ni00NDRlLWFjMTEtNGUzNWUyYWY5Y2NmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Covid-19 Impact on Airports Traffic (2020) analysis showcases an interactive visual of the project in power BI.
+
+## Conclusion
 
 
 
