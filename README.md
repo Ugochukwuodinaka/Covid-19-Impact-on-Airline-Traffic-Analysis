@@ -87,9 +87,19 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 
 ### ETL Process using the Power Query Editor:
 1. Ttranslated all the colume headers in Swedish language to English for easy understanding
-2. Translated all the rows of the Profession, Gender, and Assembly from Swedish language to English language for a better understanding of the table data.
+2. Duplicated the Centroid column into 2 more columns: "Centroid 1" and "Centroid 2"
+3. Split the duplicated Centroid columns by delimeter.
+4. Split the duplicated Centroid columns by position.
+5. Changed the Centroid 1 and Centroid 2 datra types to 'text'.
+6. Changed their column names to Longitude and Latitude.
+7. Changed the Date column type to 'date'.
+8. Made sure there is no null values or missing data.
 
+**Raw Data**
+![](Raw_Data.png)
 
+**Final query editor screenshot**
 
+![](Power_Query_Eitor_1.png)
 
 
