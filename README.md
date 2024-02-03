@@ -6,7 +6,7 @@
 The outbreak of the Covid-19 pandemic in 2020 led to unprecedented disruptions across various sectors, with the airline industry being one of the hardest-hit. This project aims to analyze the impact of the Covid-19 pandemic on global airline traffic patterns during the year 2020. By leveraging data analysis techniques, we seek to gain insights into how travel restrictions, lockdown measures, and public health concerns affected air travel behavior worldwide.
 
 ### Problem Statement:
-The outbreak of the Covid-19 pandemic in 2020 has severely impacted the global airline industry, leading to unprecedented disruptions in air travel patterns. As countries implemented various containment measures, including travel restrictions and lockdowns, airline traffic experienced significant fluctuations, with profound implications for airlines, airports, and related stakeholders. However, there remains a critical need to systematically analyze the extent and nature of these disruptions, understand the underlying factors driving changes in airline traffic behavior, and identify actionable insights to inform future strategies and policies.
+The outbreak of the Covid-19 pandemic in 2020 has severely impacted the global airline industry, leading to unprecedented disruptions in air travel patterns. As countries implemented various containment measures, including travel restrictions and lockdowns, airline traffic experienced significant fluctuations, with profound implications for airlines, airports, and related stakeholders. However, there remains a critical need to systematically analyze the extent and nature of these disruptions, understand the underlying factors driving changes in airline traffic behavior, and identify actionable insights to inform future strategies and policies. This analysis project focuses on 4 countries which are: The Unuted States of America (USA), Canada, Australia and Chile.
 
 This project seeks to address the following key questions:
 
@@ -104,6 +104,41 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 
 ## Visuals in Power BI:
 ![](Covid-19_Impact_On_Airport_Traffic_Analysis(2020)_Dashboard.jpg)
+
+#### Analysis:
+From the analysis, i made the findings below:
+- The Total Flight Record is 7,247.
+- The Average Percentage of Baselie is 66.65%.
+- The total number of Airports is 28.
+- The Total Traffic Impact is 483,000.
+- Total Number of Airport Countries in this analysis is 4
+- While the Total Number of Airport Cities is 27.
+- Looking at the Total flights recorded by the 4 countries in this analysis, USA had the most number of flights which was 4,441, followed by Canada with 2,311 flights, Australia is next with 57 flights, and lastly, Chile with 238 flights. As we can see, there are variations in these numbers by countries. Let's run a more detailed analysis on them:
+     1. Both the USA and Canada have larger populations and more extensive aviation industries compared to Australia and Chile. This inherently leads to higher levels of air travel 
+        activity in these countries, irrespective of external factors.
+
+     2. International Travel Hubs: Major cities in the USA and Canada, such as New York, Los Angeles, Toronto, and Vancouver, are significant international travel hubs. They attract a 
+        large volume of passengers and facilitate numerous flight connections, contributing to higher overall flight numbers.
+
+     3. Economic Activity and Business Travel: The USA and Canada are home to numerous multinational corporations and have strong economies. This results in substantial business travel 
+        activity, which translates to higher demand for flights, particularly between major business centers and corporate hubs.
+
+     4. Geopolitical Factors: The geographical proximity of the USA and Canada to other major global destinations, as well as their political and economic ties with various countries, 
+        can influence the volume of international flights operating to and from these countries.
+
+     5. However, it's important to note that the significant disparity in flight numbers between the USA and Canada compared to Australia and Chile during the early part of 2020 can 
+        also be attributed to the onset of the Covid-19 pandemic. By January 2020, the Covid-19 outbreak had begun to spread globally, leading to widespread travel restrictions, border 
+        closures, and a decline in passenger demand for air travel.
+
+     6. As a result, the USA and Canada, being more connected to global travel networks and having larger aviation industries, likely experienced a higher volume of flights in the early 
+        part of 2020 compared to Australia and Chile. However, as the severity of the pandemic increased and travel restrictions intensified, all countries would have seen significant 
+        reductions in flight numbers compared to previous years.
+     7. Generally, compared to the previous years, these 4 countries experienced lesser flight schedules, due flight restrictions that happened in 2020 due to the destructive impact of 
+        the covid-19 pandemic not just in these 4 countries in this analysis, but globally.
+
+
+
+
 
 
 
