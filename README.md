@@ -45,3 +45,34 @@ This project seeks to address the following key questions:
 
 ### About The Dataset
 This dataset shows traffic to and from the Airport as a Percentage of the Traffic volume during the baseline period. The baseline period used for computing this metric is from 1st Feb to 15th March 2020. The dataset gets updated monthly. This data is publicly available from [Geotab](https://www.geotab.com/). The dataset is in .csv file and can be viewed or downloaded [here](covid_impact_on_airport_traffic.csv)
+
+The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown of the column details:
+
+- AggregationMethod: This column indicates the method used for aggregating or summarizing the data. It might specify whether the data is aggregated on a daily, weekly, monthly, or yearly basis, or if it's aggregated based on other criteria such as airport, country, or region.
+
+- Date: This column represents the date for which the data is recorded. It typically follows a standardized date format (e.g., YYYY-MM-DD) and indicates the specific time point or period to which each data entry corresponds.
+
+- Version: This column denotes the version or iteration of the dataset. It may indicate updates, revisions, or modifications made to the dataset over time, allowing users to track changes and ensure data integrity.
+
+- AirportName: This column contains the name or identifier of the airport associated with each data entry. It identifies the specific airport location to which the data pertains, facilitating analysis and interpretation based on geographic context.
+
+- PercentOfBaseline: This column provides a measure of the percentage deviation from a baseline value. In the context of airline traffic data, it likely represents the percentage of normal or pre-pandemic levels of air traffic for each observation, indicating the extent of disruption or recovery in air travel activity.
+
+- Centroid: This column may contain geographical coordinates (latitude and longitude) representing the central point or centroid of the airport location. It enables spatial analysis and visualization, allowing users to map and analyze data based on airport locations.
+
+- City: This column specifies the city or urban area associated with each airport. It provides additional geographic information to complement the airport name, helping users identify the location of airports within specific cities or metropolitan areas.
+
+- State: This column indicates the state or province (if applicable) where the airport is located. It further refines the geographical context of each airport, particularly in countries with administrative divisions such as the United States, Canada, or Australia.
+
+- ISO_3166_2: This column may contain the ISO 3166-2 code corresponding to the state or province where the airport is located. ISO 3166-2 is a standardized coding system used to represent country subdivisions, facilitating data interoperability and cross-referencing with other datasets.
+
+- Country: This column specifies the country where the airport is situated. It provides the highest level of geographical context for each data entry, enabling analysis and comparison of data across different countries or regions.
+
+- Geography: This column may contain additional geographical information or descriptors related to each airport location. It could include details such as geographical regions, continents, or other spatial attributes that help classify and organize airport locations within a broader geographic framework.
+
+
+
+
+
+
+
