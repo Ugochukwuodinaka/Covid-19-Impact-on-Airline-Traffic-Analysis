@@ -1,6 +1,14 @@
 # Covid-19-Impact-on-Airline-Traffic-Analysis-(2020)
 ![](Covid-19_Impact_on_Airport_Traffic_image.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [Visuals in Power BI:](#visuals-in-power-bi)
+- [View and Interact With Power BI Dashboard Report](#view-and-interact-with-power-bi-dashboard-report)
+- [Recommendations on How To Mitigate or Control the Impact of Pandemics on Airport Traffic](#recommendations-on How-to-mitigate-or-control-the-Impact-of-pandemics-on-airport-traffic)
+
 ## Project Overview
 ### Introduction:
 The outbreak of the Covid-19 pandemic in 2020 led to unprecedented disruptions across various sectors, with the airline industry being one of the hardest-hit. This project aims to analyze the impact of the Covid-19 pandemic on global airline traffic patterns during the year 2020. By leveraging data analysis techniques, we seek to gain insights into how travel restrictions, lockdown measures, and public health concerns affected air travel behavior worldwide.
