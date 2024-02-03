@@ -7,7 +7,7 @@
 - [Tools Used](#tools-used)
 - [Visuals in Power BI:](#visuals-in-power-bi)
 - [View and Interact With Power BI Dashboard Report](#view-and-interact-with-power-bi-dashboard-report)
-- [Recommendations on How To Mitigate or Control the Impact of Pandemics on Airport Traffic](#recommendations-on How-to-mitigate-or-control-the-Impact-of-pandemics-on-airport-traffic)
+- [Recommendations on How To Mitigate or Control the Impact of Pandemics on Airport Traffic](#recommendations-on-how-to-mitigate-or-control-the-Impact-of-pandemics-on-airport-traffic)
 
 ## Project Overview
 ### Introduction:
