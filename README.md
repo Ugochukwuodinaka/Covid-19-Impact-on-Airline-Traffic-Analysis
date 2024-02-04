@@ -94,7 +94,7 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
         5. Tooltips
 
 ### ETL Process using the Power Query Editor:
-1. Ttranslated all the colume headers in Swedish language to English for easy understanding
+1. Translated all the colume headers in Swedish language to English for easy understanding
 2. Duplicated the Centroid column into 2 more columns: "Centroid 1" and "Centroid 2"
 3. Split the duplicated Centroid columns by delimeter.
 4. Split the duplicated Centroid columns by position.
