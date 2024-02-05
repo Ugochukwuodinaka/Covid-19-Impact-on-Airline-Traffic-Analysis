@@ -106,7 +106,7 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 **Raw Data**
 ![](Raw_Data.png)
 
-**Final query editor screenshot**
+**Final Power Query Editor screenshot**
 
 ![](Power_Query_Eitor_1.png)
 
