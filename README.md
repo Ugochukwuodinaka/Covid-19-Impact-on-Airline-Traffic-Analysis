@@ -1,5 +1,5 @@
 # Covid-19-Impact-on-Airline-Traffic-Analysis-(2020)
-![](Covid-19_Impact_on_Airport_Traffic_image.jpg)
+![](images/Covid-19_Impact_on_Airport_Traffic_image.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -104,14 +104,14 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 8. Made sure there is no null values or missing data.
 
 **Raw Data**
-![](Raw_Data.png)
+![](images/Raw_Data.png)
 
 **Final Power Query Editor screenshot**
 
-![](Power_Query_Eitor_1.png)
+![](images/Power_Query_Eitor_1.png)
 
 ## Visuals in Power BI:
-![](Covid-19_Impact_On_Airport_Traffic_Analysis(2020)_Dashboard.jpg)
+![](images/Covid-19_Impact_On_Airport_Traffic_Analysis(2020)_Dashboard.jpg)
 
 #### Analysis:
 From the analysis, i made the findings below:
@@ -251,11 +251,3 @@ In conclusion, mitigating and controlling the impact of pandemics on airport tra
 - Collaborative Research and Innovation: Promoting collaborative research and innovation in areas such as vaccine development, antiviral treatments, and epidemiological modeling can help advance scientific understanding of pandemics and inform evidence-based decision-making in mitigating their impact on airport traffic.
 
 - Community Engagement and Public Awareness: Engaging with local communities, passengers, and stakeholders through public awareness campaigns, educational initiatives, and community outreach efforts can help build trust, promote compliance with health guidelines, and foster a culture of resilience and solidarity in responding to pandemics.
-
-
-
-
-
-
-
-
