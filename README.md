@@ -1,4 +1,4 @@
-# Covid-19-Impact-on-Airline-Traffic-Analysis-(2020)
+# Covid-19 Impact On Airline Traffic (2020) Analysis
 ![](images/Covid-19_Impact_on_Airport_Traffic_image.jpg)
 
 ## Table of Contents
