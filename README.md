@@ -78,7 +78,7 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 
 - Geography: This column contain additional geographical information or descriptors related to each airport location. It could include details such as geographical regions, continents, or other spatial attributes that help classify and organize airport locations within a broader geographic framework.
 
-### Tools Used
+### Skills Utilized
 1. Data Cleaning
 2. Data Visualiziation
 3. Descriptive Analytics
