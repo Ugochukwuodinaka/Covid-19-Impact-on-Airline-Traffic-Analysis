@@ -79,6 +79,14 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 - Geography: This column contain additional geographical information or descriptors related to each airport location. It could include details such as geographical regions, continents, or other spatial attributes that help classify and organize airport locations within a broader geographic framework.
 
 ### Tools Used
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
+
+   
+### Tools Used
 1. Power Query Editor
     - Was used to:
         1. Extract,
@@ -251,3 +259,6 @@ In conclusion, mitigating and controlling the impact of pandemics on airport tra
 - Collaborative Research and Innovation: Promoting collaborative research and innovation in areas such as vaccine development, antiviral treatments, and epidemiological modeling can help advance scientific understanding of pandemics and inform evidence-based decision-making in mitigating their impact on airport traffic.
 
 - Community Engagement and Public Awareness: Engaging with local communities, passengers, and stakeholders through public awareness campaigns, educational initiatives, and community outreach efforts can help build trust, promote compliance with health guidelines, and foster a culture of resilience and solidarity in responding to pandemics.
+
+## Thank You For Following Through!
+![](images/Thank_You_1.jpg)
