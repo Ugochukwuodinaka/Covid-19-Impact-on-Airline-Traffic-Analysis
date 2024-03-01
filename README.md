@@ -121,7 +121,7 @@ Raw Data  Screenshot                                                          |
 
 **Final Power Query Editor screenshot**
 
-Power Query Screenshot                                                        |                                
+Power Query Editorshot                                                        |                                
 :----------------------------------------------------------------------------:|
 ![](images/Power_Query_Eitor_1.png)
 
