@@ -90,8 +90,9 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 1. Power Query Editor
     - Was used to:
         1. Extract,
-        2. Transform, and
-        3. Load all the datasets for this analysis.
+        2. Clean,
+        3. Transform, and
+        4. Load all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
