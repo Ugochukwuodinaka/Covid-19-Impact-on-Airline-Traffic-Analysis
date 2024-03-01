@@ -113,11 +113,18 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 8. Made sure there is no null values or missing data.
 
 **Raw Data**
+
+Raw Data  Screenshot                                                          |                                
+:----------------------------------------------------------------------------:|
 ![](images/Raw_Data.png)
+
 
 **Final Power Query Editor screenshot**
 
+Power Query Screenshot                                                        |                                
+:----------------------------------------------------------------------------:|
 ![](images/Power_Query_Eitor_1.png)
+
 
 ## Visuals in Power BI:
 ![](images/Covid-19_Impact_On_Airport_Traffic_Analysis(2020)_Dashboard.jpg)
