@@ -1,5 +1,6 @@
 # Covid-19 Impact On Airline Traffic (2020) Analysis
 ![](images/Covid-19_Impact_on_Airport_Traffic_image.jpg)
+<br />
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -8,6 +9,7 @@
 - [Visuals in Power BI:](#visuals-in-power-bi)
 - [View and Interact With Power BI Dashboard Report](#view-and-interact-with-power-bi-dashboard-report)
 - [Recommendations on How To Mitigate or Control the Impact of Pandemics on Airport Traffic](#recommendations-on-how-to-mitigate-or-control-the-Impact-of-pandemics-on-airport-traffic)
+<br />
 
 ## Project Overview
 ### Introduction:
@@ -50,6 +52,8 @@ This project seeks to address the following key questions:
 - Geospatial Mapping of Baseline Percentage: Using geospatial mapping, the analysis will showcase the percentage of baseline traffic by airport, country, state, and city, offering a spatial perspective on the distribution of air traffic disruptions.
 
 - Actionable Insights: Drawing from the analysis results, actionable insights will be derived to assist stakeholders in the aviation industry and policymakers in adapting strategies and mitigating future risks associated with similar crises. These insights may include recommendations for route optimization, capacity planning, health and safety protocols, policy adjustments, and crisis management strategies.
+<br />
+<br />
 
 ### About The Dataset
 This dataset shows traffic to and from the Airport as a Percentage of the Traffic volume during the baseline period. The baseline period used for computing this metric is from 1st Feb to 15th March 2020. The dataset gets updated monthly. This data is publicly available from [Geotab](https://www.geotab.com/). The dataset is in .csv file and can be viewed or downloaded [here](covid_impact_on_airport_traffic.csv)
@@ -77,6 +81,7 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 - Country: This column specifies the country where the airport is situated. It provides the highest level of geographical context for each data entry, enabling analysis and comparison of data across different countries or regions.
 
 - Geography: This column contain additional geographical information or descriptors related to each airport location. It could include details such as geographical regions, continents, or other spatial attributes that help classify and organize airport locations within a broader geographic framework.
+<br />
 
 ### Skills Utilized
 1. Data Cleaning
@@ -84,7 +89,7 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 3. Descriptive Analytics
 4. Critical Thinking and Problem Solving
 5. Communication and Reporting
-
+<br />
    
 ### Tools Used
 1. Power Query Editor
@@ -101,6 +106,7 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
         3. Page Navigation,
         4. Filters,
         5. Tooltips
+<br />
 
 ### ETL Process using the Power Query Editor:
 1. Translated all the colume headers in Swedish language to English for easy understanding
@@ -111,23 +117,27 @@ The dataset is made up of 11 columns and 7,248 rows of data. Here is a breakdown
 6. Changed their column names to Longitude and Latitude.
 7. Changed the Date column type to 'date'.
 8. Made sure there is no null values or missing data.
+<br />
 
 **Raw Data**
 
 Raw Data  Screenshot                                                          |                                
 :----------------------------------------------------------------------------:|
 ![](images/Raw_Data.png)
-
+<br />
 
 **Final Power Query Editor screenshot**
 
 Power Query Editorshot                                                        |                                
 :----------------------------------------------------------------------------:|
 ![](images/Power_Query_Eitor_1.png)
-
+<br />
+<br />
 
 ## Visuals in Power BI:
 ![](images/Covid-19_Impact_On_Airport_Traffic_Analysis(2020)_Dashboard.jpg)
+<br />
+<br />
 
 #### Analysis:
 From the analysis, i made the findings below:
@@ -267,6 +277,8 @@ In conclusion, mitigating and controlling the impact of pandemics on airport tra
 - Collaborative Research and Innovation: Promoting collaborative research and innovation in areas such as vaccine development, antiviral treatments, and epidemiological modeling can help advance scientific understanding of pandemics and inform evidence-based decision-making in mitigating their impact on airport traffic.
 
 - Community Engagement and Public Awareness: Engaging with local communities, passengers, and stakeholders through public awareness campaigns, educational initiatives, and community outreach efforts can help build trust, promote compliance with health guidelines, and foster a culture of resilience and solidarity in responding to pandemics.
+<br />
+<br />
 
 ## Thank You For Following Through!
 ![](images/Thank_You_1.jpg)
