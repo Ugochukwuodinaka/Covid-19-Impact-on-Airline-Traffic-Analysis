@@ -141,12 +141,18 @@ Power Query Editorshot                                                        |
 
 #### Analysis:
 From the analysis, i made the findings below:
-- The Total Flight Record is 7,247.
-- The Average Percentage of Baselie is 66.65%.
-- The total number of Airports is 28.
-- The Total Traffic Impact is 483,000.
-- Total Number of Airport Countries in this analysis is 4
-- While the Total Number of Airport Cities is 27.
+- The Total Flight Record is __7,247__.
+- The Average Percentage of Baselie is __66.65%__.
+- The total number of Airports is __28__.
+- The Total Traffic Impact is __483,000__.
+- Total Number of Airport Countries in this analysis is __4__.
+- While the Total Number of Airport Cities is __27__.
+<br />
+<br />
+
+- <img src="images/Total_Flight_Record_by_Country.jpg" width="300">
+
+- **Total Flight Record by Country:**
 - Looking at the Total flights recorded by the 4 countries in this analysis, USA had the most number of flights which was 4,441, followed by Canada with 2,311 flights, Australia is next with 57 flights, and lastly, Chile with 238 flights. As we can see, there are variations in these numbers by countries. Let's run a more detailed analysis on them:
      1. Both the USA and Canada have larger populations and more extensive aviation industries compared to Australia and Chile. This inherently leads to higher levels of air travel 
         activity in these countries, irrespective of external factors.
@@ -169,7 +175,12 @@ From the analysis, i made the findings below:
         reductions in flight numbers compared to previous years.
      7. Generally, compared to the previous years, these 4 countries experienced lesser flight schedules, due flight restrictions that happened in 2020 due to the destructive impact of 
         the covid-19 pandemic not just in these 4 countries in this analysis, but globally.
+<br />
+<br />
 
+- <img src="images/Overall_Traffic_Impact_by_Country.jpg" width="300">
+
+- **Overall Traffic Impact By Country:**
 - In the context of this analysis, the term "overall traffic impact" refers to the net change or deviation in air traffic activity compared to a baseline or reference period. The specific numbers associated with each country represent the magnitude of this impact, measured in some standardized unit (such as flight counts for this analysis) that allows for comparison across different regions or time periods.
 
      1. USA: With an overall traffic impact of 286,271, this indicates a substantial net change in air traffic activity within the United States during the specified period. The 
@@ -184,8 +195,13 @@ From the analysis, i made the findings below:
 
      5. These values provide quantitative insights into how the Covid-19 pandemic, or other factors under consideration, affected air traffic patterns in each country. A higher overall 
         traffic impact suggests a more significant deviation from normal or baseline levels of air traffic, while a lower impact indicates a relatively smaller deviation.
+<br />
+<br />
 
-- In the Flight Trend by Month linechart, it is evident that there are fluctuations in air travel activity throughout the year, with certain months experiencing higher or lower percentages relative to a baseline reference point. Below is an analysis of these trends:
+- <img src="images/Flight_Trend_by_Month.jpg" width="450">
+
+- **Flight Trend by Month:**
+- In the Flight Trend by Month line chart, it is evident that there are fluctuations in air travel activity throughout the year, with certain months experiencing higher or lower percentages relative to a baseline reference point. Below is an analysis of these trends:
 
      1. Initial Impact of Covid-19 Pandemic (March to May): The percentage of baseline in March is 445, indicating a significant decline in air travel activity compared to pre-pandemic 
         levels. This decline likely corresponds to the initial onset of the Covid-19 pandemic, as countries implemented widespread travel restrictions and lockdown measures to contain 
@@ -207,7 +223,12 @@ From the analysis, i made the findings below:
 
      5. Overall, the analysis of flight trends by month highlights the dynamic nature of air travel activity throughout the year, with fluctuations influenced by external factors such 
         as the Covid-19 pandemic, government policies, economic conditions, and seasonal variations. 
+<br />
+<br />
 
+- <img src="images/Contribution_of_Different_Airports_to_Overall_Traffic_Impact.jpg" width="450">
+
+- **Contributions of Different Airports to Overall Traffic Impact:**
 - Here's an analysis of the contribution of different Airports to the Overall Traffic Impact of the Covid-19 pandemic:
 
      1. Decline in Air Travel Activity: The data reflects a significant decrease in air travel activity across various airports, as indicated by the lower percentages of baseline. This 
@@ -234,7 +255,12 @@ From the analysis, i made the findings below:
         of the aviation industry in 2020 and beyond.
 
      7. Overall, the analysis of airport contributions to the overall traffic impact underscores the profound effects of the Covid-19 pandemic on air travel activity worldwide.
+<br />
+<br />
 
+- <img src="images/Percentage_of_Baseline_by_Airport_Country_State_%26_City.jpgg" width="450">
+
+- **Percentage of Baseline by Airport, Country, State, and City:**
 - The geospatial map showing the percentage of baseline by airports, longitude, latitude, countries, states, and cities offers a detailed visualization of the impact of the Covid-19 pandemic on air travel activity in 2020. Here's an analysis based on the provided information:
 
      1. Spatial Distribution of Impact: The map provides insights into the spatial distribution of the percentage of baseline across different airports, countries, states, and cities. 
