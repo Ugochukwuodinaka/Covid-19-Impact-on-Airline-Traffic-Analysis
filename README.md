@@ -198,7 +198,7 @@ From the analysis, i made the findings below:
 <br />
 <br />
 
-- <img src="images/Flight_Trend_by_Month.jpg" width="450">
+- <img src="images/Flight_Trend_by_Month.jpg" width="500">
 
 - **Flight Trend by Month:**
 - In the Flight Trend by Month line chart, it is evident that there are fluctuations in air travel activity throughout the year, with certain months experiencing higher or lower percentages relative to a baseline reference point. Below is an analysis of these trends:
@@ -226,7 +226,7 @@ From the analysis, i made the findings below:
 <br />
 <br />
 
-- <img src="images/Contribution_of_Different_Airports_to_Overall_Traffic_Impact.jpg" width="450">
+- <img src="images/Contribution_of_Different_Airports_to_Overall_Traffic_Impact.jpg" width="500">
 
 - **Contributions of Different Airports to Overall Traffic Impact:**
 - Here's an analysis of the contribution of different Airports to the Overall Traffic Impact of the Covid-19 pandemic:
@@ -258,7 +258,7 @@ From the analysis, i made the findings below:
 <br />
 <br />
 
-- <img src="images/Percentage_of_Baseline_by_Airport_Country_State_%26_City.jpgg" width="450">
+- <img src="images/Percentage_of_Baseline_by_Airport_Country_State_%26_City.jpg" width="500">
 
 - **Percentage of Baseline by Airport, Country, State, and City:**
 - The geospatial map showing the percentage of baseline by airports, longitude, latitude, countries, states, and cities offers a detailed visualization of the impact of the Covid-19 pandemic on air travel activity in 2020. Here's an analysis based on the provided information:
