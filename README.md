@@ -256,9 +256,14 @@ From the analysis, i made the findings below:
      5. Policy Response and Recovery Strategies: The geospatial map can inform policymakers, aviation industry stakeholders, and public health officials in assessing the effectiveness 
         of policy responses and designing recovery strategies. Understanding the spatial patterns of air travel activity can help prioritize resource allocation, target interventions, 
         and support the gradual resumption of air travel in the post-pandemic period.
+<br />
+<br />
 
 ## View and Interact With Power BI Dashboard Report
 You can view and interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNzUzZDA3YzEtNjI3Ni00NDRlLWFjMTEtNGUzNWUyYWY5Y2NmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Covid-19 Impact on Airports Traffic (2020) analysis showcases an interactive visual of the project in power BI.
+<br />
+<br />
+<br />
 
 ## Recommendations on How To Mitigate or Control the Impact of Pandemics on Airport Traffic
 
