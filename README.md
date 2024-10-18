@@ -189,8 +189,8 @@ From the analysis, i made the findings below:
 <br />
 <br />
 
-## View and Interact With Power BI Dashboard Report
-You can view and interact with this report [here](https://app.powerbi.com/view?r=eyJrIjoiNzUzZDA3YzEtNjI3Ni00NDRlLWFjMTEtNGUzNWUyYWY5Y2NmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Covid-19 Impact on Airports Traffic (2020) analysis showcases an interactive visual of the project in power BI.
+## View and Interact With Power BI Dashboard:
+You can view and interact with this dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzUzZDA3YzEtNjI3Ni00NDRlLWFjMTEtNGUzNWUyYWY5Y2NmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).The dashboard report on Covid-19 Impact on Airports Traffic (2020) analysis showcases an interactive visual of the project in power BI.
 <br />
 <br />
 <br />
